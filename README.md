@@ -1,2 +1,3 @@
 # Java-Snake-Code-Help
 Hi all, I'm writing a program for a school project where i'm recreating the snake game. I followed a tutorial on YouTube but found that when I run the program, it simply displays a blank white window, not the desired interface. I wrote using java swing. Any help would be super appreciated, thanks!
+There is a second set of variables i initalized but haven't yet used called banana peel (bp) which will be for a new feature i add once the current code is working properly. It will be a secomd object that, when the player collides with it, it will subtract a point from their score.
